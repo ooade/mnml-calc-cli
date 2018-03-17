@@ -1,6 +1,6 @@
-# Simple CLI calculator app with commander
+# Simple CLI calculator app with minimist
 
-A simple CLI calculator app with commander.
+A simple CLI calculator app with minimist.
 
 ### License
 
